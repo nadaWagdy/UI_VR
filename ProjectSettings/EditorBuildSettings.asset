@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/ToolScene.unity
     guid: 7217dddf0bc2cd34d9eee8b0ce44916d
   - enabled: 1
-    path: Assets/Scenes/Templates/FinalScenes/extending/SecondScene.unity
+    path: Assets/Scenes/Templates/FinalScenes/extending/ToolOptions.unity
     guid: af5a7a9bb626d5a42ad5f97b68dcbf4c
   - enabled: 1
     path: Assets/Scenes/Templates/FinalScenes/extending/ScrollScene.unity
