@@ -35,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Templates/FinalScenes/extending/FinalMainMenu.unity
     guid: 366b7b69fff3989469751131915a0fc2
+  - enabled: 1
+    path: Assets/Scenes/Templates/FinalScenes/extending/SecondScene.unity
+    guid: 1afa76b3674bcfc47867a731995afe43
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2902da209b413c049b76600c9b1a2979, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dd0cafe2d7ed5fc43ad0f7707303834c, type: 2}
